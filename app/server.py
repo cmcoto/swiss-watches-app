@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=1-8aSzXeQM8jQRTJapEfYJnFQQnHkPwup'
+model_file_url = 'https://www.dropbox.com/s/qv010n6by6q06ic/stage-2.pth?raw=1'
 model_file_name = 'model'
 classes = ['audemars','cartier','delma','jaeger-lecoultre','mondain','omega','oris','patek','rolex','swatch','tag-heuer','tissot','vulcain']
 path = Path(__file__).parent
